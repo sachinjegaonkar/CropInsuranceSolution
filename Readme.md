@@ -1,4 +1,4 @@
-# Crop Insurance Solution
+# The Crop Insurance Solution
 
 ⚙️ Decentralized Crop Insurance Solution
 
