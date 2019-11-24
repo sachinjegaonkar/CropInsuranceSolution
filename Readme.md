@@ -47,7 +47,7 @@ The Icertis AI ML Blockchain Hackathon is an Azure Cloud-only Hackathon, with al
 3. You might have to create multiple free trial accounts in a staggered fashion.
 
 
-Architector
+Architecture
 =====================
 
 [![Architecture](https://github.com/sachinjegaonkar/CropInsuranceSolution/blob/master/Architecture.JPG)](https://github.com/sachinjegaonkar/CropInsuranceSolution)
@@ -114,14 +114,14 @@ How It Works
 2. Farmer Signs Up for Weather Insurance Product - Registration Data and Policy Data is Set Up with Smart Contract
 3. Farmer Pays Premium to Insurance Company
 4. Through the Season the Smart Contract Collects Weather Data from the Data Provider e.g. 
-* Soil Temperature at different heights
-* Air Temperature
-* Leaf Wetness
-* Rainfall
-* Wind Speed
-* Relative Humidity
-* Solar Radiation
-* Wind Direction and Atmospheric Pressure
+        * Soil Temperature at different heights
+        * Air Temperature
+        * Leaf Wetness
+        * Rainfall
+        * Wind Speed
+        * Relative Humidity
+        * Solar Radiation
+        * Wind Direction and Atmospheric Pressure
 5. When Weather Threshold is reached, Smart Contract gets Triggered Automatically
 6. Claim Payout happens to the Insured Farmer Automatically
 
