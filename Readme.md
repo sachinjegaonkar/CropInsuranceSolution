@@ -123,7 +123,7 @@ Problems Being Solved
 Demonstration Video/Prototype Demo [Not Yet Ready]
 =====================
 
-[![Watch the Demo](https://github.com/sachinjegaonkar/CropInsuranceSolution/blob/master/Crop.jpg)](https://github.com/sachinjegaonkar/CropInsuranceSolution)
+[![Watch the Demo](https://github.com/sachinjegaonkar/CropInsuranceSolution/blob/master/Crops.jpg)](https://github.com/sachinjegaonkar/CropInsuranceSolution)
 
 
 Extended Work – Application is Scalable
